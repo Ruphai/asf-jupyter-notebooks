@@ -1,4 +1,4 @@
-# ASF Jupyter Notebooks
+# ASF Jupyter Notebooks 
 __Where python meets fun!!__
 
 Python Jupyter notebooks are a very nice way to play with data recipes and visualize data. It provides a low-barrier entry into Python development. See https://jupyter.org/ for more info about the overlying technology used.
